@@ -1,5 +1,7 @@
-# Ingora todo
-*
+# Ingora todo dentro de la carpeta Pharo3.0	
+Pharo3.0/*
 # Menos estos archivos
-!*.image
-!*.changes
+!Pharo3.0/*.image
+!Pharo3.0/*.changes
+
+
