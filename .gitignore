@@ -1,0 +1,5 @@
+# Ingora todo
+*
+# Menos estos archivos
+!*.image
+!*.changes
