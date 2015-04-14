@@ -1,6 +1,8 @@
 # Ingora todo	
 *
 # Menos estos archivos
--!*.st
+!*.st
+!.gitignore
+!README.md
 
 
