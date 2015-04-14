@@ -1,3 +1,6 @@
-# No Ignora nada
+# Ingora todo	
+*
+# Menos estos archivos
+-!*.st
 
 
